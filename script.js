@@ -13,5 +13,5 @@ function CalcolaFattoriale() {
         }
     }
 
-    document.getElementById("demo").innerHTML= n + "! = " + fattoriale;
+    document.getElementById("demo").innerHTML= fattoriale;
 }
